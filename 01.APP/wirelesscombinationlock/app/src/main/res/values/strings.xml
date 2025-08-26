@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">无线密码锁</string>
+    <string name="loginOut">退出登录</string>
+</resources>
